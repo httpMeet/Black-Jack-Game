@@ -2,15 +2,6 @@
 
 A simple browser-based implementation of the classic **Blackjack (21)** card game using **HTML**, **CSS**, and **JavaScript**. Play against a virtual dealer, test your luck, and learn the basics of game logic and DOM manipulation.
 
----
-
-## 🎮 Live Demo
-
-> _[Optional: Add link to GitHub Pages or live site if deployed]_  
-> Example: https://httpMeet.github.io/Black-Jack-Game
-
----
-
 ## 🧠 Game Rules
 
 - You vs the Dealer (Computer)
